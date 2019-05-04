@@ -1,4 +1,4 @@
-package com.stackwizards.custom.androlib;
+package com.stackwizards.custom.graphicutil;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
